@@ -1,0 +1,12 @@
+POST http://localhost:3000/data
+Content-Type: application/json
+
+{
+        "name": "DevOps"
+}
+
+###
+
+GET http://localhost:3000/data
+
+###
